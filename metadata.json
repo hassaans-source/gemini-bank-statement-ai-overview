@@ -1,0 +1,6 @@
+{
+  "name": "Shakir Ai Finance Review Portal",
+  "description": "Private, single-owner business finance review portal with automated bank statement AI analysis, multi-month comparisons, budget tracking, and bilingual Urdu/English interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
